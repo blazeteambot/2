@@ -12,7 +12,7 @@ Modified by Ilyasa
 2017
 */
 require_once('./line_class.php');
-$channelAccessToken = 'gkFWe885yYxM3SHgb0oYJzhjrbJR+A4SzkeV+nZ+8s3DXjsQ8IAl0ctNnYSI4yiAAwu2P2YXXeIvRJ5nzEWsfCXxAQbnuAMD+54tWf9TZ9RLT4K1LTMEQ0x20Qm53i5SouIuy/ZVDZAL9i9YdwcemQdB04t89/1O/w1cDnyilFU='; //Your Channel Access Token
+$channelAccessToken = '3KnSh0q7HkKvQIUcqCGgRQH4gbxNow4tVzOFWVFs1RIC96TIROYgo2B+yHPgNby1Awu2P2YXXeIvRJ5nzEWsfCXxAQbnuAMD+54tWf9TZ9TF1kC9Bf7ft19xVUNrsTrYAxKlIg9INHy3E3e4XUmtbgdB04t89/1O/w1cDnyilFU='; //Your Channel Access Token
 $channelSecret = '6adc7b8d7923ff92b4e8cf5698ff6310';//Your Channel Secret
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
